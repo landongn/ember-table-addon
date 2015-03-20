@@ -13,6 +13,7 @@
   "evil": true,
   "forin": false,
   "immed": false,
+  "node": true,
   "laxbreak": false,
   "newcap": true,
   "noarg": true,
